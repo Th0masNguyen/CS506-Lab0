@@ -52,3 +52,4 @@ def nearest_neighbor(target_vector, vectors):
             maxindex = index
         index += 1
     return maxindex
+#test
